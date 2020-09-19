@@ -1,0 +1,29 @@
+
+body {
+  background-color: #BEA6A0;
+  color: #C34A36;
+}
+
+h1 {
+color: #926D00;
+}
+
+h1, h2{
+  margin: 2px 5px;
+  background-color: #FF8066;
+}
+.title {
+  color: #C34A36;
+}
+
+ul {
+  margin: 5px 10px;
+}
+
+#pic {
+  margin: 5px 5px;
+}
+
+footer {
+  color: #926D00;
+}
