@@ -2,6 +2,7 @@
 body {
 /* background-image: url("https://images.unsplash.com/photo-1480072723304-5021e468de85?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1252&q=80"); */
 background-image: url("https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80");
+
 backdrop-filter: blur(5px);
 color: #FF8066;
 }
@@ -19,6 +20,10 @@ h1, h2{
 p {
 font-size: 1.2em;
 color: #BEA6A0;
+}
+
+div {
+  background: white;
 }
 
 ul {
